@@ -1,6 +1,5 @@
 import "./style.css";
 import Api from './api.js';
-import Card from './card.js';
 import CardList from './cardList.js';
 import Popup from './popup.js';
 
