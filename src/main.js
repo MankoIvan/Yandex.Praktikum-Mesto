@@ -1,7 +1,7 @@
 const placesList = document.querySelector('.places-list');
 const cardList = new CardList(placesList);
 const api = new Api({
-    baseUrl: 'http://95.216.175.5/cohort2',
+    baseUrl: 'http://praktikum.tk/cohort2',
     headers: {
         authorization: '464ca459-5ead-41b4-a6f4-faa5f26c0255',
         'Content-Type': 'application/json'

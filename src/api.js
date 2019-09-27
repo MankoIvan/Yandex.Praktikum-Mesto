@@ -1,4 +1,4 @@
-class Api {
+export default class Api {
     constructor({baseUrl, headers}) {
         this.url = baseUrl;
         this.token = headers.authorization;

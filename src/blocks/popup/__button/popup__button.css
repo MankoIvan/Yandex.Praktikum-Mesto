@@ -1,5 +1,5 @@
-@import url(./__button_text/popup__button_text.css);
-@import url(./__button_active/popup__button_active.css);
+@import url("./__button_text/popup__button_text.css");
+@import url("./__button_active/popup__button_active.css");
 
 .popup__button {
   width: 100%;
