@@ -4,7 +4,7 @@
 
 ## https://mankoivan.github.io/sprint11/
 
-##Использованные технологии и пакеты:
+## Использованные технологии и пакеты:
     - [Node.js] (https://nodejs.org/en/download/)
     - [Webpack] (https://webpack.js.org/)
     - [MiniCssExtractPlugin] (https://webpack.js.org/plugins/mini-css-extract-plugin/)
@@ -20,9 +20,9 @@
     - [BabelPresetEnvironment] (https://babeljs.io/docs/en/babel-preset-env#docsNav)
     - [CoreJS] (https://github.com/zloirock/core-js#readme)
 
-##Инструкция по развертыванию:
+## Инструкция по развертыванию:
     - клонируйте репозиторий `https://github.com/Mankoivan/sprint11.git`
-    - уcnановите зависимости npm `npm install`
+    - уcтановите зависимости npm `npm install`
 
     - сборка проекта `npm run build`
     - запуск проекта на локальном сервере `npm run dev`
