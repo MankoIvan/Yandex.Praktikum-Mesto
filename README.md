@@ -2,7 +2,7 @@
 
 Сервис Mesto: интерактивная страница, где можно обмениваться фотографиями
 
-## https://mankoivan.github.io/sprint11/
+## https://mankoivan.github.io/Yandex.Praktikum-Mesto/
 
 ## Использованные технологии и пакеты:
 - [Node.js](https://nodejs.org/en/download/)
